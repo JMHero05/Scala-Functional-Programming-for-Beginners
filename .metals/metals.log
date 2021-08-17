@@ -1,0 +1,25 @@
+[0m2021.08.17 15:50:03 INFO  Started: Metals version 0.10.5 in workspace '/Users/jakemills/Development/Personal/Scala-Functional-Programming-for-Beginners' for client Visual Studio Code 1.59.0.[0m
+[0m2021.08.17 15:50:03 INFO  time: initialize in 0.37s[0m
+[0m2021.08.17 15:50:03 WARN  Build server is not auto-connectable.[0m
+[0m2021.08.17 15:50:03 WARN  no build tool detected in workspace '/Users/jakemills/Development/Personal/Scala-Functional-Programming-for-Beginners'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Aug 17, 2021 3:51:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 17, 2021 3:51:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 17, 2021 3:51:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 17, 2021 3:51:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 17, 2021 3:51:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 17, 2021 3:51:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 17, 2021 3:51:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 17, 2021 3:51:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 17, 2021 3:51:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 17, 2021 3:51:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.08.17 15:58:20 INFO  shutting down Metals[0m
